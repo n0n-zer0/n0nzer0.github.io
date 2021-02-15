@@ -6,6 +6,7 @@
 
 * [Approach](whitebox-review/approach/README.md)
   * [Blackbox test](whitebox-review/approach/blackbox-test.md)
+  * [Whitebox review](whitebox-review/approach/whitebox-review.md)
 * [Checklist](whitebox-review/checklist.md)
 * [GREP & Regex](whitebox-review/grep-and-regex.md)
 

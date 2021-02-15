@@ -15,7 +15,6 @@
   * What can Authenticated user do that unauthenticated cannot ? \(Available features ?\)
     * File upload ? \(profile picture etc ?\)
   * client side/server side validations missing ?
-  * 
 * Explore **Elevated privileges \(Admin or other user roles\)**
   * available features ?
     * import/export ?
