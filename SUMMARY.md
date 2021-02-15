@@ -32,3 +32,19 @@
 
 * [Untitled](nosql-databases/untitled.md)
 
+## Payloads
+
+* [Shells](payloads/shells.md)
+* [MSFVenom](payloads/msfvenom.md)
+
+## Privilege escalation
+
+* [GTFO bins](privilege-escalation/gtfo-bins.md)
+* [Tools](privilege-escalation/tools.md)
+
+## static code analysis
+
+* [SEMGREP \(language agnostic\)](static-code-analysis/semgrep-language-agnostic.md)
+* [RUBY](static-code-analysis/ruby.md)
+* [JAVA](static-code-analysis/java.md)
+
