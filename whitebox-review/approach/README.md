@@ -6,10 +6,7 @@
 2. Whitebox phase 1
 3. Whitebox phase 2
 4. Whitebox phase 3
-5. POC plan
-   1. execute
-   2. refine,reassess,debug
-   3.  adapt or repeat ?
+5. POC phase
 
 ### Blackbox 
 
@@ -69,6 +66,14 @@ At the end of **whitebox phase 3** you should know
   * analysed them and have a prioritised list of which ones look most promising
 
 ### POC phase
+
+At the end of the **POC phase** you should know/have
+
+* a working POC for a vulnerable function, demonstrating its weakness.
+* know why you could not archieve a functionall POC
+  * this does not mean it was time wasted, most often this still means that the underlying code is potentially vulnerable and most likely there are better coding practices that could be used to eliminate any possibility of a vulnerability! make sure to document and communicate these.
+
+
 
 
 
