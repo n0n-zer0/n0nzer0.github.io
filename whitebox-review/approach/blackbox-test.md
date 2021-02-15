@@ -7,12 +7,15 @@
   * Any features that take user-input ?
     * registration ?
     * comments ?
-  * Any enumeration/information ?
+  * Any enumeration possible ? \([https://cheatsheetseries.owasp.org/cheatsheets/Insecure\_Direct\_Object\_Reference\_Prevention\_Cheat\_Sheet.html](https://cheatsheetseries.owasp.org/cheatsheets/Insecure_Direct_Object_Reference_Prevention_Cheat_Sheet.html)\)
+    * email addresses ?
+    * account information
     * Can you view user-profiles ?
 * Explore **Authenticated** features/endpoints
   * What can Authenticated user do that unauthenticated cannot ? \(Available features ?\)
     * File upload ? \(profile picture etc ?\)
-  * client side validations ?
+  * client side/server side validations missing ?
+  * 
 * Explore **Elevated privileges \(Admin or other user roles\)**
   * available features ?
     * import/export ?
@@ -56,4 +59,6 @@
     * any debug information ?
     * stacktrace ?
   * Find any debug features  or test functionalities ?
+  * endpoint enumeration
+  * \(optional\) nmap scan / gobuser / dirbuster 
 
