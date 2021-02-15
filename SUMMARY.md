@@ -6,6 +6,7 @@
 
 * [Approach](whitebox-review/approach.md)
 * [Checklist](whitebox-review/checklist.md)
+* [GREP & Regex](whitebox-review/grep-and-regex.md)
 
 ## Vulnerabilities
 
@@ -14,7 +15,9 @@
 * [Server-side request forgery \(SSRF\)](vulnerabilities/server-side-request-forgery-ssrf.md)
 * [SQL injection](vulnerabilities/sql-injection.md)
 * [NoSQL injection](vulnerabilities/nosql-injection.md)
-* [Sandbox escapes](vulnerabilities/sandbox-escapes.md)
+* [Sandbox escapes](vulnerabilities/sandbox-escapes/README.md)
+  * [Python](vulnerabilities/sandbox-escapes/python.md)
+  * [NodeJS](vulnerabilities/sandbox-escapes/nodejs.md)
 * [Command injection](vulnerabilities/command-injection.md)
 * [Deserialization attacks](vulnerabilities/deserialization-attacks.md)
 * [Server Side Template Injection \(SSTI\)](vulnerabilities/template-injection.md)
@@ -44,7 +47,10 @@
 
 ## static code analysis
 
-* [SEMGREP \(language agnostic\)](static-code-analysis/semgrep-language-agnostic.md)
+* [language agnostic](static-code-analysis/semgrep-language-agnostic.md)
 * [RUBY](static-code-analysis/ruby.md)
 * [JAVA](static-code-analysis/java.md)
+* [Python](static-code-analysis/python.md)
+* [.NET](static-code-analysis/.net.md)
+* [Nodejs](static-code-analysis/nodejs.md)
 
