@@ -1,6 +1,6 @@
-# Blackbox test
+# Blackbox
 
-## Blackbox review
+## review plan
 
 * Start your favourite proxy \(BURP/ZAP\) + Open your browsers development TAB
 * Explore **Unauthenticated** features/endpoints
@@ -49,7 +49,7 @@
 * Analyse Web traffic \(BURP or ZAP & open Development view, NETWORK TAB in CHROME\)
   * Anything interesting ?
   * Any non HTTP traffic \(websockets etc\) ?
-* Do some basic blackbox testing \(**+- 30 min, 1h MAX**\)
+* Do some basic blackbox testing \(Time-boxed\)
   * SQL injections
   * XSS payloads
   * File upload bypass

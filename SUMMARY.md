@@ -5,9 +5,11 @@
 ## Web-Application Whitebox review <a id="whitebox-review"></a>
 
 * [Approach](whitebox-review/approach/README.md)
-  * [Blackbox test](whitebox-review/approach/blackbox-test.md)
-  * [Whitebox review](whitebox-review/approach/whitebox-review.md)
-* [Checklist](whitebox-review/checklist.md)
+  * [Blackbox](whitebox-review/approach/blackbox-test.md)
+  * [Whitebox - phase 1](whitebox-review/approach/whitebox-review.md)
+  * [Whitebox - phase 2](whitebox-review/approach/whitebox-phase-2.md)
+  * [Whitebox - phase 3](whitebox-review/approach/whitebox-phase-3.md)
+  * [POC - phase](whitebox-review/approach/poc-phase.md)
 * [GREP & Regex](whitebox-review/grep-and-regex.md)
 
 ## Vulnerabilities
