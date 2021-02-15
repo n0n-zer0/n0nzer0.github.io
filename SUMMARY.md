@@ -1,10 +1,11 @@
 # Table of contents
 
-* [Pentest notes](README.md)
+* [Web application pentest notes](README.md)
 
-## Whitebox review
+## Web-Application Whitebox review <a id="whitebox-review"></a>
 
-* [Approach](whitebox-review/approach.md)
+* [Approach](whitebox-review/approach/README.md)
+  * [Blackbox test](whitebox-review/approach/blackbox-test.md)
 * [Checklist](whitebox-review/checklist.md)
 * [GREP & Regex](whitebox-review/grep-and-regex.md)
 
