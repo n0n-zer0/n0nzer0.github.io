@@ -14,7 +14,7 @@
 
 {% embed url="https://book.hacktricks.xyz/pentesting-web/sql-injection" %}
 
-
+{% embed url="https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection" %}
 
 ## Blind SQL
 
