@@ -40,10 +40,6 @@
 * [MSSQL](databases/mssql.md)
 * [ORACLE](databases/oracle.md)
 
-## NoSQL databases
-
-* [Untitled](nosql-databases/untitled.md)
-
 ## Payloads
 
 * [Shells](payloads/shells.md)
