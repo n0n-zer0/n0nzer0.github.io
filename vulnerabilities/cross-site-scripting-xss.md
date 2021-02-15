@@ -6,7 +6,7 @@
 
 {% embed url="https://portswigger.net/web-security/cross-site-scripting" %}
 
-## Cheat sheets Payload Obfuscation / blacklist evasion
+## Cheat sheets & Overviews + Payload Obfuscation 
 
 {% embed url="http://www.jsfuck.com/" %}
 

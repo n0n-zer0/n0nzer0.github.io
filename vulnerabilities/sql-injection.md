@@ -1,12 +1,12 @@
 # SQL injection
 
-## What is ?
+## What is it
 
 {% embed url="https://owasp.org/www-community/attacks/SQL\_Injection" %}
 
 {% embed url="https://portswigger.net/web-security/sql-injection" %}
 
-## Cheat sheets
+## Cheat sheets & Overviews
 
 {% embed url="https://cheatsheetseries.owasp.org/cheatsheets/SQL\_Injection\_Prevention\_Cheat\_Sheet.html" %}
 

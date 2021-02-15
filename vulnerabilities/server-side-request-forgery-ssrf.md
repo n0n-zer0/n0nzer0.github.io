@@ -1,6 +1,6 @@
 # Server-side request forgery \(SSRF\)
 
-## What is SSRF
+## What is it
 
 {% embed url="https://portswigger.net/web-security/ssrf" %}
 
