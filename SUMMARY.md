@@ -27,8 +27,16 @@
 
 ## Databases
 
-* [MySQL / MariaDB](databases/mysql-mariadb.md)
-* [Postgres](databases/postgres.md)
+* [MySQL / MariaDB](databases/mysql-mariadb/README.md)
+  * [Logging](databases/mysql-mariadb/logging.md)
+  * [User Defined Functions \(UDFs\)](databases/mysql-mariadb/user-defined-functions-udfs.md)
+  * [Syntax tricks](databases/mysql-mariadb/syntax-tricks.md)
+* [Postgres](databases/postgres/README.md)
+  * [Logging](databases/postgres/logging.md)
+  * [User Defined functions \(postgress extensions\)](databases/postgres/user-defined-functions-postgress-extensions.md)
+  * [CVEs](databases/postgres/cves.md)
+  * [Syntax tricks](databases/postgres/syntax-tricks.md)
+  * [Large file upload](databases/postgres/large-file-upload.md)
 * [MSSQL](databases/mssql.md)
 * [ORACLE](databases/oracle.md)
 
