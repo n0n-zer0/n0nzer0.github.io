@@ -10,4 +10,5 @@
 * [SQL injection](vulnerabilities/sql-injection.md)
 * [Sandbox escapes](vulnerabilities/sandbox-escapes.md)
 * [Deserialization attacks](vulnerabilities/deserialization-attacks.md)
+* [Template injection](vulnerabilities/template-injection.md)
 
