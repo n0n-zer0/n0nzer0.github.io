@@ -56,7 +56,7 @@ If you did find concrete vulnerable features, you might skip phase 3 \(or come b
 
 The goal of phase 3 is to look for specific vulnerability types for the language of the application. It might be that you are dealing with a very large code base or simply that the features analysed in phase 2 did not bring any result. In this phase we take a step back from the intuition we build about our web application \(i.e. which functions look interesting and potentially vulnerable\) and try to approach it purely from a systematic side. We look for specific keywords, code patterns, libraries or other vectors that might be hidden in the application
 
-At the end of **whitebox phase 2** you should know
+At the end of **whitebox phase 3** you should know
 
 * Identified which of the vulnerabilities the application might be vulnerable to and which ones not!
   * not vulnerable examples: 
