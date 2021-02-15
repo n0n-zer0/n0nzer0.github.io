@@ -23,6 +23,7 @@
 * [Server Side Template Injection \(SSTI\)](vulnerabilities/template-injection.md)
 * [File upload vulnerabilities](vulnerabilities/file-upload-vulnerabilities.md)
 * [Type Juggling](vulnerabilities/type-juggling.md)
+* [Remote File Inclusion \(RFI\)](vulnerabilities/remote-file-inclusion-rfi.md)
 
 ## Databases
 
