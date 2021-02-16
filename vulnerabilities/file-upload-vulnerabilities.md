@@ -10,6 +10,8 @@
 
 {% embed url="https://book.hacktricks.xyz/pentesting-web/file-upload\#file-upload-general-methodology" %}
 
+{% embed url="https://cheatsheetseries.owasp.org/cheatsheets/File\_Upload\_Cheat\_Sheet.html" %}
+
 
 
 
