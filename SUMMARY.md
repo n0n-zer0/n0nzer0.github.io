@@ -1,11 +1,6 @@
 # Table of contents
 
 * [Web application pentest notes](README.md)
-* [Programming languages notes](programming-languages-notes/README.md)
-  * [.NET](programming-languages-notes/.net.md)
-  * [Python](programming-languages-notes/python.md)
-  * [PHP](programming-languages-notes/php.md)
-  * [Java](programming-languages-notes/java.md)
 
 ## Web-Application Whitebox review <a id="whitebox-review"></a>
 
@@ -33,6 +28,13 @@
 * [File upload vulnerabilities](vulnerabilities/file-upload-vulnerabilities.md)
 * [Type Juggling](vulnerabilities/type-juggling.md)
 * [Remote File Inclusion \(RFI\)](vulnerabilities/remote-file-inclusion-rfi.md)
+
+## Language notes
+
+* [Java](language-notes/java.md)
+* [Python](language-notes/python/README.md)
+  * [PHP](language-notes/python/php.md)
+* [.NET](language-notes/.net.md)
 
 ## Databases
 
