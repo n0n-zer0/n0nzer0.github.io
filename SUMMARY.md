@@ -1,6 +1,11 @@
 # Table of contents
 
 * [Web application pentest notes](README.md)
+* [Programming languages notes](programming-languages-notes.md)
+* [Java](java.md)
+* [PHP](php.md)
+* [Python](python.md)
+* [.NET](.net.md)
 
 ## Web-Application Whitebox review <a id="whitebox-review"></a>
 

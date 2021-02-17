@@ -20,5 +20,13 @@ Same as above but now only include files ending with **PHP**
 grep -r "../include/isAuthenticated.php" . --color 2>/dev/null -L --include \*.php
 ```
 
+## Regex
+
+Java find all usages of ObjectInputStream
+
+```text
+^.*?ObjectInputStream.*?
+```
+
 
 
